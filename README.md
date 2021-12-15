@@ -1,5 +1,8 @@
 # AoC 2021
 
+[![tests](https://github.com/spadix0/AoC2021/actions/workflows/test.yml/badge.svg)](https://github.com/spadix0/AoC2021/actions)
+[![coverage](https://coveralls.io/repos/github/spadix0/AoC2021/badge.svg)](https://coveralls.io/github/spadix0/AoC2021)
+
 Solutions to [Advent of Code 2021] in Python.
 
 
