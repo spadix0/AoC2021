@@ -45,7 +45,7 @@ class SnailNum:
     def __radd__(self, v):                              # just to enable sum()
         if v == 0:
             return self
-        return NotImplemented
+        return NotImplemented                           # pragma: no cover
 
     @staticmethod
     def _calc_mag_weight():
